@@ -36,7 +36,7 @@ REQUIRED_PACKAGES = [
     'note-seq==0.0.3',
     'numba==0.58.1',
     'numpy==1.22',
-    'pillow==9.2.0',
+    'pillow==12.3.0',
     'pretty_midi==0.2.9',
     'pygtrie==2.5.0',
     'python-rtmidi==1.5.8',
