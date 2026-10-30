@@ -63,7 +63,7 @@ EXTRAS_REQUIRE = {
         'tflite == 2.4.0',
     ],
     'test': [
-        'pylint == 2.14.5',
+        'pylint == 4.0.9',
         'pytest == 7.1.2',
     ]
 }
